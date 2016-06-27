@@ -4,7 +4,7 @@ This module is part of the Nami tool and is currently under active development. 
 
 # Licensing
 
-This module is licensed under the GPL, Version 2.0. See the COPYING file for the full license text.
+This module is licensed under the GPL, Version 2.0. See the [COPYING](COPYING) file for the full license text.
 
 # Contributing
 
