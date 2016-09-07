@@ -22,7 +22,7 @@
     "fs-extra": "^0.30.0"
   },
   "devDependencies": {
-    "bitnami-gulp-common-tasks": "bitnami/gulp-common-tasks#v2.0.0",
+    "bitnami-gulp-common-tasks": "bitnami/gulp-common-tasks#v2.0.2",
     "chai": "^3.5.0",
     "chai-fs": "git+https://github.com/bitnami/chai-fs.git",
     "crc": "^3.4.0",
