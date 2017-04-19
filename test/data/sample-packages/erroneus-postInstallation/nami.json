@@ -1,0 +1,14 @@
+{
+  "id": "demo_package",
+  "name": "demo_package",
+  "extends": ["Component"],
+  "revision": 1,
+  "author": {"name": "Your Company", "url": "https://example.com"\},
+  "version": "1.0.0",
+  "properties": {
+  },
+  "exports": {
+  },
+  "installation": {
+  }
+}
