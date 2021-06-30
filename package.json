@@ -1,6 +1,6 @@
 {
   "name": "nami-test",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Nami Test",
   "main": "index.js",
   "repository": {
@@ -22,12 +22,12 @@
     "tmp": "^0.0.28"
   },
   "devDependencies": {
-    "bitnami-gulp-common-tasks": "bitnami/gulp-common-tasks#v3.0.0",
+    "bitnami-gulp-common-tasks": "git+https://git@github.com/bitnami/gulp-common-tasks#v3.0.2",
     "chai": "^3.5.0",
     "chai-fs": "git+https://github.com/bitnami/chai-fs.git",
     "crc": "^3.4.0",
     "eslint": "^6.5.1",
-    "eslint-config-bitnami": "bitnami/eslint-config-bitnami#v1.0.0",
+    "eslint-config-bitnami": "git+https://git@github.com/bitnami/eslint-config-bitnami#v1.0.0",
     "eslint-plugin-import": "^1.14.0",
     "gulp": "^4.0.2",
     "gulp4-run-sequence": "^1.0.1"
